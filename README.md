@@ -1,0 +1,2 @@
+# MSI-MAG-Z390-TOMAHAWk-Hackintosh
+Opencore EFI for MSI-MAG-Z390-TOMAHAWk
