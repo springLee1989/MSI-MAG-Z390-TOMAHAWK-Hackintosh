@@ -1077,19 +1077,6 @@
 			<array>
 				<string>rtc-blacklist</string>
 			</array>
-			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<array>
-				<string>boot-args</string>
-				<string>csr-active-config
-csr-active-config
-csr-active-config
-csr-active-config
-csr-active-config
-csr-active-config
-csr-active-config
-csr-active-config
-csr-active-config</string>
-			</array>
 		</dict>
 		<key>LegacyEnable</key>
 		<false/>
@@ -1375,7 +1362,7 @@ csr-active-config</string>
 			<key>SanitiseClearScreen</key>
 			<true/>
 			<key>TextRenderer</key>
-			<string>BuiltinGraphics</string>
+			<string>SystemText</string>
 			<key>UgaPassThrough</key>
 			<false/>
 		</dict>
