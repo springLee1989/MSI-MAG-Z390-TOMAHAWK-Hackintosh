@@ -22,7 +22,7 @@ jobs:
       - name: Package to zip
         id: zip
         run: |
-          filename=MSI-MAG-Z390-TOMAHAWk-Hackintosh-${{ steps.version.outputs.tag }}.zip
+          filename=MSI-MAG-Z390-TOMAHAWK-Hackintosh-${{ steps.version.outputs.tag }}.zip
           zip -r ${filename} ./*
           echo ::set-output name=filename::${filename}
 

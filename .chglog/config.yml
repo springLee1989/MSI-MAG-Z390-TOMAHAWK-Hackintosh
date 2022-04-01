@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh
+  repository_url: https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWK-Hackintosh
 options:
   commits:
     filters:

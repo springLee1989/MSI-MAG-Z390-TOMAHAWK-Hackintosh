@@ -1,8 +1,8 @@
-# MSI-MAG-Z390-TOMAHAWk-Hackintosh
-[![Analyze](https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh/actions/workflows/analyze.yml/badge.svg)](https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh/actions/workflows/analyze.yml)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh?include_prereleases)
+# MSI-MAG-Z390-TOMAHAWK-Hackintosh
+[![Analyze](https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh/actions/workflows/analyze.yml/badge.svg)](https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWK-Hackintosh/actions/workflows/analyze.yml)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/springLee1989/MSI-MAG-Z390-TOMAHAWK-Hackintosh?include_prereleases)
 
-Opencore EFI for MSI-MAG-Z390-TOMAHAWk
+Opencore EFI for MSI-MAG-Z390-TOMAHAWK
 
 ## MSI MAG Z390 TOMAHAWK + i7-8700ES(QN8H)
 
