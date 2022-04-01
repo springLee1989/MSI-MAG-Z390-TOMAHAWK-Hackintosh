@@ -1,6 +1,9 @@
 # MSI-MAG-Z390-TOMAHAWk-Hackintosh
+[![Analyze](https://github.com/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh/actions/workflows/analyze.yml/badge.svg)](https://github.com/springLee1989/Dell-Optiplex-5070mff-Hackintosh/actions/workflows/analyze.yml)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/springLee1989/MSI-MAG-Z390-TOMAHAWk-Hackintosh?include_prereleases)
 Opencore EFI for MSI-MAG-Z390-TOMAHAWk
-## MSI MAG Z390 TOMAHAWK + i7-8700ES（QN8H） 
+
+## MSI MAG Z390 TOMAHAWK + i7-8700ES(QN8H)
 
 ### 当前版本信息
 
