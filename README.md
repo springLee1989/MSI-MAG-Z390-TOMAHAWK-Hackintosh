@@ -34,7 +34,7 @@ Opencore EFI for MSI-MAG-Z390-TOMAHAWk
 | 散热器   | Thermalright AS120 PLUS               |
 | 显示器   | PHL 276E8V 27'' 4K * 2                   |
 | 鼠标     | Logitech MX Master 3                  |
-| 键盘     | K                 |
+| 键盘     | Keychron K1                 |
 | 机箱     | JONSBO U4                             |
 
 ### 功能完善程度
