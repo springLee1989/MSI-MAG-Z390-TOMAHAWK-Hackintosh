@@ -11,13 +11,14 @@ Opencore EFI for MSI-MAG-Z390-TOMAHAWK
 | 信息                                                         | 版本                |
 | ------------------------------------------------------------ | ------------------- |
 | 系统                                                         | macOS BigSur 11.3.1 |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.9               |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.7.9               |
 | 模拟机型                                                     | iMac19,1            |
-| [Lilu.kext](https://github.com/acidanthera/Lilu/releases)    | 1.5.3               |
-| [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases) | 1.2.3               |
-| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) | 1.4.9               |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases) | 1.6.0               |
-| [IntelMausi.kext](https://github.com/acidanthera/IntelMausi/releases) | 1.0.6               |
+| [Lilu.kext](https://github.com/acidanthera/Lilu/releases)    | 1.6.0               |
+| [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases) | 1.2.9               |
+| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) | 1.5.8               |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases) | 1.7.0               |
+| [IntelMausi.kext](https://github.com/acidanthera/IntelMausi/releases) | 1.0.7               |
+| [AppleIGB.kext](https://github.com/Shaneee/AppleIGB)   | 5.7.2               |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend)   | 1.2.3               |
 
 ### 电脑配置信息
@@ -97,6 +98,11 @@ Opencore EFI for MSI-MAG-Z390-TOMAHAWK
 
 ### 更新记录
 
+- 2022年04年17日
+  - 更新OpenCore 0.7.9
+  - 更新Kexts到新版本
+  - 更换最新的2.5g网卡的驱动AppleIGB
+
 - 2021年03年08日
   - 更新OpenCore 0.6.9
   - 更新Kexts到新版本
@@ -105,7 +111,7 @@ Opencore EFI for MSI-MAG-Z390-TOMAHAWK
 ### 预览截图
 
 ![](./Screenshots/Screenshot01.png)
-
+![](./Screenshots/Screenshot02.png)
 
 ### 鸣谢
 
@@ -116,4 +122,3 @@ Opencore EFI for MSI-MAG-Z390-TOMAHAWK
 - [黑果小兵](https://blog.daliansky.net/)
 - [远景论坛](http://bbs.pcbeta.com)
 - [GeQ1an](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI)
-
